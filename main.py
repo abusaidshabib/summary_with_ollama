@@ -9,9 +9,8 @@ def run_pipeline():
                           output_path="data/cleaned_text.txt")
     cleaner.run()
 
-
-    summarizer = LLMSummarizer(
-        input_path="data/cleaned_text.txt", output_path="data/summary.txt")
+    summarizer = LLMSummarizer(model_id="llama3.1",
+                               input_path="data/cleaned_text.txt", output_path="data/summary.txt")
     summarizer.run()
 
 
