@@ -1,0 +1,22 @@
+Here's a summary of what Worldometers is about:
+
+**What is Worldometers?**
+Worldometers is a website that provides real-time statistics and data on various global topics, including population, health, economy, energy, water, food, and more.
+
+**Key Features:**
+
+* Real-time updates on a wide range of global metrics
+* Data on over 100 million indicators from around the world
+* Access to historical data for comparison and analysis
+* Statistics on various sectors, including health, economy, environment, and social issues
+
+**Some examples of statistics provided by Worldometers include:**
+
+* Population growth rate and demographics
+* Energy consumption and production
+* Water usage and scarcity
+* Health metrics, such as communicable disease deaths and cancer rates
+* Economic indicators, like GDP and inflation
+* Environmental data on climate change, pollution, and natural disasters
+
+Overall, Worldometers is a valuable resource for anyone looking to stay informed about global trends and statistics.
